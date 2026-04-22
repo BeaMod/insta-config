@@ -1,5 +1,5 @@
 {
-  "dailyLimit": 5,
+  "dailyLimit": 20,
   "perProfileLimit": 3,
   "delayMin": 30000,
   "delayMax": 45000,
